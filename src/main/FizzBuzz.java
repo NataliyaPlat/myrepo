@@ -12,6 +12,12 @@ public class FizzBuzz {
             if (i%5==0){
                 System.out.println("Buzz");
             }
+            if (i==15){
+                System.out.println("FizzBuzz");
+            }
+            else{
+                System.out.println(i);
+            }
         }
 
     }
