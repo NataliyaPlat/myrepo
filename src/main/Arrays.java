@@ -20,7 +20,7 @@ public class Arrays {
         num.add(9);
         num.add(10);
         for (int i = 0; i < 10; i++) {
-          //  System.out.println(num.get(i));
+            System.out.println(num.get(i));
         }
       //Create an ArrayList [1,2,3,6,7,3,2,1]. Remove all 2 from Arraylist
         ArrayList<Integer> two = new ArrayList<>();
@@ -37,7 +37,7 @@ public class Arrays {
                 System.out.println("");
             }
             else{
-              //  System.out.println(two.get(i));
+                System.out.println(two.get(i));
             }
         }
         //Remove all odd numbers;
