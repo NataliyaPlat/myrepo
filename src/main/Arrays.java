@@ -3,8 +3,6 @@ package main;
 import java.util.ArrayList;
 import java.util.Collection;
 
-
-
 public class Arrays {
     public static void main(String[] args) {
         //Initiate an Arraylist. Using For loop add integers from 1 to 10
@@ -52,6 +50,7 @@ public class Arrays {
             }
             else{
                 System.out.println("no output");
+                System.out.println("array2 branch let's check");
             }
         }
 
