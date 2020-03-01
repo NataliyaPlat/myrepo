@@ -51,7 +51,7 @@ public class Arrays {
                 System.out.println(list.get(i));
             }
             else{
-                System.out.println("");
+                System.out.println("no output");
             }
         }
 
