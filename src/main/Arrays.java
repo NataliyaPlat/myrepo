@@ -51,6 +51,7 @@ public class Arrays {
             else{
                 System.out.println("no output");
                 System.out.println("array2 branch let's check");
+                System.out.println("array2 branch my second push");
             }
         }
 
